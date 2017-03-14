@@ -4,5 +4,5 @@ This project is a collection of mobile apps that demonstrate vulnerabilities and
 
 [Custom Class Loader](https://github.com/mpeck12/custom-class-loader)  
 [Device Admin Sample](https://github.com/mitre/device-admin-sample)
-
+[NowSecure Vulnerability Test Suite](https://github.com/nowsecure/android-vts) 
 
